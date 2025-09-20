@@ -1,0 +1,22 @@
+{
+  "year_counts": {
+    "2020": 62
+  },
+  "top_words": {},
+  "title_column_used": "title_word_count",
+  "analysis_metadata": {
+    "total_papers": 62,
+    "columns_analyzed": 7,
+    "analysis_date": "2025-09-20T18:24:18.318665",
+    "year_range": "2020-2020",
+    "available_columns": [
+      "Column",
+      "Type",
+      "Description",
+      "year",
+      "publish_time",
+      "abstract_word_count",
+      "title_word_count"
+    ]
+  }
+}
